@@ -1,0 +1,71 @@
+m working on a python project and need support to help me learn.   
+   
+I've done machine learning before but in C++, but my professor is specifically requesting all the coding work be done in python which i have no expertise in whatsoever. With work, traveling due to work, and other classes to take, i can't really sit down for long enough to do these at an adequate level needed and need some assistance for them to be completed. All of the assignments are just pulling data from databases or tables.   
+   
+-------   
+   
+IP1   
+   
+Using the provided dataset that represents the Titanic disaster, create both an unsupervised clustering algorithm to describe the data and a simple supervised classification prediction to determine who might survive. Implement your algorithms in Python.   
+   
+Submit 2 Python files with roughly 50-80 lines of code each and 1 MS Word document (or Jupyter Notebook).   
+   
+Code file must include a file header that includes the following information at a minimum: Your name, date, course, and description of the code.   
+Code must be well-commented and in your own words. Explain your decisions and what the code is doing.   
+Capture and record results and screenshots in a Word document.   
+Supervised Clustering Algorithm: should write a supervised clustering algorithm.    
+Unsupervised Clustering Algorithm: should write an unsupervised clustering algorithm.    
+Python Output: should show output from each clustering algorithm.    
+Organization: Assignment presents information logically and is clearly relevant to the topic.    
+Professional Language: Assignment contains accurate grammar, spelling, and/or punctuation with few or no errors. (APA formatting is required or style specified in assignment)   
+   
+-------   
+   
+IP3   
+   
+For this task, use this dataset, and create a machine learning algorithm that predicts credit card fraud. You may use any algorithm you like. Be sure to include the Python code (i.e. you must implement the algorithm in Python) to ingest, prepare, model, and show the results of the algorithm.   
+   
+Submit 1 Python code file of 100-200 lines and 1 Word document.   
+   
+You may use any algorithm you like. You must implement the algorithm in Python to ingest, prepare, model, and show the results of the algorithm. Use a training, testing, and validation approach that allows for the algorithm to be run on future unseen data.   
+Code must be well-commented – explain your decisions and what the code is doing - it is far better to overcommit than under comment.   
+Capture and record results and screenshots in a Word document (alternatively, you can submit a Jupyter Notebook that includes everything).   
+Python Application: The student should write a Python application to implement a machine learning algorithm.   
+   
+Credit Fraud Prediction: The student implements credit fraud detection measures in the python application.   
+   
+Algorithm Selection: The student selects suitable algorithm for credit fraud detection.   
+   
+Organization: Assignment presents information logically and is clearly relevant to the topic.   
+   
+Professional Language: Assignment contains accurate grammar, spelling, and/or punctuation with few or no errors. (APA formatting is required or style specified in assignment).    
+--------   
+   
+IP4   
+   
+For this project, you will use the dataset Alice in Wonderland book to create a long short-term memory (LTSM) algorithm to generate text. Please implement your algorithm in Python.   
+   
+Submit 1 Python code file of 80-200 lines.   
+   
+Code must be well-commented – explain your decisions and what the code is doing.   
+Code file must include a file header that includes the following information at a minimum   
+Your name   
+Date   
+Course   
+Description of the code   
+Capture and record results and screenshots in a Word document (alternatively, you can submit a Jupyter Notebook that includes everything).   
+Python Application: The student should write a Python application to create key-values.   
+   
+Long Short-Term Memory Algorithm: The student should explain
+how an application could work in a distributed environment. 
+LTSM Output: The student should show output from  
+the  
+  
+application that is generated text.   
+   
+Dataset Themes: The student should show that they have identified themes such as characters or other insightful information from the dataset.   
+   
+Professional Language: Assignment contains accurate grammar, spelling, and/or punctuation with few or no errors. (APA formatting is required or style specified in assignment).   
+R  
+equirements: 3-5 pages for each, not including cover page and resource page   |   .doc file 
+can you handle such
